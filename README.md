@@ -1,5 +1,11 @@
 
 # Technical Resources
+- [XCM Part I: The Cross-Consensus Message Format](https://polkadot.network/blog/xcm-the-cross-consensus-message-format/)
+
+- [XCM Part II: Versioning and Compatibility](https://polkadot.network/blog/xcm-part-two-versioning-and-compatibility/)
+
+- [XCM Part III: Execution and Error Management](https://polkadot.network/blog/xcm-part-three-execution-and-error-management/)
+
 - [GitHub - paritytech/xcm-format: Polkadot Cross Consensus-system Message format](https://github.com/paritytech/xcm-format)
 
     The XCM format specification. The best starting point for understanding the XCM API at a technical level.
